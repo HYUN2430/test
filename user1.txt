@@ -1,0 +1,8 @@
+ID:00001
+Parking_time: 14日(xx時xx分xx秒)
+start:2023年10月05日11時30分
+end:0000年00月00日00時00分
+expiration_date:2024年3月31日
+priority:1
+
+
